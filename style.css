@@ -1,6 +1,10 @@
 .{
     margin:0;
 }
+a{
+    text-decoration:none;
+    color:inherit;
+}
 .navbar-list{
     list-style: none;
     margin:0;
