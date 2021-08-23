@@ -43,7 +43,7 @@
     font-size:33px;
 }
 .overlay{
-    background-color: rgba(0, 0, 0, .7);
+    background-color: #000000b3;
     background-blend-mode: multiply;
     padding-bottom: 0px;
 }
@@ -55,10 +55,11 @@
     border:none;
 }
 .register-button{
-    background-color: transparent;
-    color: white;
+    background-color: #0000;
     width:200px;
     height:50px;
+    color: #fff;
+    border:2px solid #fff;
 }
 .learn-more{
     border-radius:15px;
@@ -152,20 +153,20 @@
     color: white;
     width:200px;
     border:none;
-    height:30px;
+    height:40px;
 }
 
 .know-more{
     text-align: center;
-    background-color: #3c3c3c;
+    background-color: #424242;
     color: white;
 }
 .click-here{
-    background-color: transparent;
-    border-color: white;
+    background-color: #0000;
     color: white;
     width:200px;
     height:40px;
+    border:2px solid #fff;
 }
 
 .pokemon-card{
